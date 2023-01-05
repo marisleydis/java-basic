@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Exercices {
     public static void main(String args[]) {
         Scanner scanner =  new Scanner(System.in);
-        System.out.println("Introduce un adjetivo: ");
+        System.out.println("Introduce un adjetivo: "); // practica 
         String adjective = scanner.nextLine();
         System.out.println("Introduce un estacion: ");
         String season = scanner.nextLine();
